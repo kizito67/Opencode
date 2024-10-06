@@ -62,7 +62,9 @@ nav {
 }
 .shrtcut {
   display: flex;
-  gap: 8px;
+  position: absolute;
+  bottom: 120px;
+  left: 10px;
   flex-direction: column;
   align-items: center;
 }
